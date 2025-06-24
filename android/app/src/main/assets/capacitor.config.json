@@ -1,0 +1,6 @@
+{
+	"appId": "com.seunome.curiosos",
+	"appName": "Curiosos",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
