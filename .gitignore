@@ -28,3 +28,9 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+node_modules/
+   dist/
+   build/
+   .env
+   .DS_Store
+   Thumbs.db
