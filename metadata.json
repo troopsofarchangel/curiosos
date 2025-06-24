@@ -1,0 +1,8 @@
+{
+  "name": "curiosos",
+  "description": "An application that detects motion using the device's sensors and triggers an alarm. It logs motion events with GPS coordinates if available.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
