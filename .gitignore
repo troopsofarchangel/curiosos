@@ -34,3 +34,18 @@ node_modules/
    .env
    .DS_Store
    Thumbs.db
+app/src/main/assets/capacitor.config.json
+app/src/main/assets/capacitor.plugins.json
+app/src/main/res/xml/config.xml
+
+# Ignorar pastas de build e arquivos temporários do Android
+/app/build/
+/.gradle/
+/local.properties
+/.idea/
+*.iml
+.gradle/
+# Ignorar arquivos de log
+*.log
+# Ignorar arquivos de cache
+*.tmp
