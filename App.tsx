@@ -16,7 +16,7 @@ const BAROMETER_CHANGE_THRESHOLD_PA = 20; // Pascals - for significant pressure 
 
 const ARMING_DELAY_MS = 3000;
 const ALARM_SOUND_INTERVAL_MS = 1000;
-const YOUR_PIX_KEY = "XXX@XXXX.com";
+const YOUR_PIX_KEY = "troopsofarchangel@gmail.com";
 
 // Declare interfaces for sensor APIs if not globally available in TS
 declare global {
